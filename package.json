@@ -1,0 +1,26 @@
+{
+  "name": "unccoursehelper",
+  "version": "1.0.0",
+  "description": "a simple chrome extension to help students find prerequisites for any UNC course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skanta04/UNCCourseHelper.git"
+  },
+  "keywords": [
+    "course"
+  ],
+  "author": "Shreeya Kantamsetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skanta04/UNCCourseHelper/issues"
+  },
+  "homepage": "https://github.com/skanta04/UNCCourseHelper#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^21.0.3"
+  }
+}
