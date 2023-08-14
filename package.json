@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/skanta04/UNCCourseHelper#readme",
   "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
     "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.9.179",
+    "pdfreader": "^3.0.1",
     "puppeteer": "^21.0.3"
   }
 }
